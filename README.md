@@ -1,3 +1,7 @@
 # Special_Course
 
-# Neural Networks
+# 
+
+https://github.com/pjreddie/mnist-csv-png
+
+For getting MNIST data set for data augmentation.
