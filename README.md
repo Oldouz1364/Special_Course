@@ -11,4 +11,4 @@ https://github.com/SkafteNicki/libcpab
 Data:
 https://github.com/pjreddie/mnist-csv-png
 
-
+Author: Oldouz Majidi
